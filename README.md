@@ -18,9 +18,9 @@
 > [!NOTE]
 > ## Things I work with 🚀
 > > FLutter
-> > Python
-> > Sql
-> > Firebase
+> -  Python
+> - Sql
+> - Firebase
 
 
 
