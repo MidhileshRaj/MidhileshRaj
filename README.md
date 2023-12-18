@@ -8,4 +8,8 @@
 
 
 ## My Experiences 🙌
-[About me] 
+
+• Flutter developer at Futuralabs Calicut.
+• .
+•.
+
