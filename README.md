@@ -16,7 +16,7 @@
 • Developed and released many freelance Flutter project works.
 
 > [!NOTE]
-> -## Things I work with 🚀
+> - ## Things I work with 🚀
 >   - FLutter
 >   -  Python
 >   - Sql
