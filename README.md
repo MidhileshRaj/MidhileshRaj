@@ -1,4 +1,4 @@
-# Hey, I'm Midhilesh Raj
+# Hey, I'm *Midhilesh Raj*
 
 💼 I'm an software developer.   
 
@@ -10,6 +10,12 @@
 ## My Experiences 🙌
 
 • Flutter developer at [Futuralabs Calicut](https://thefuturalabs.com/).
-• .
-•.
+
+• Associate Software Engineer at [Maxlore innovation](https://www.maxlore.in/)  also as a trainer for basics of programming.
+
+• Developed and released many freelance Flutter project works.
+
+
+## Things I code with 🚀
+
 
