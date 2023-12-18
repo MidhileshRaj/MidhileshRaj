@@ -9,7 +9,7 @@
 
 ## My Experiences 🙌
 
-• Flutter developer at Futuralabs Calicut.
+• Flutter developer at Futuralabs Calicut (https://thefuturalabs.com/).
 • .
 •.
 
