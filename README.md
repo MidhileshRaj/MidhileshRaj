@@ -16,11 +16,18 @@
 • Developed and released many freelance Flutter project works.
 
 > [!NOTE]
-> - ## Things I work with 🚀
->   - FLutter
+> - ## Things I work/worked with 🚀
+>   - Flutter
 >   -  Python
 >   - Sql
 >   - Firebase
+>   - Html
+>   - Css
+>   - javascript
+>   - bootstrap
+
+
+
 
 
 
