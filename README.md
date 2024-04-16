@@ -9,6 +9,8 @@
 
 ## My Experiences 🙌
 
+• Freelance Flutter application developer.
+
 • Flutter developer at [Futuralabs Calicut](https://thefuturalabs.com/).
 
 • Associate Software Engineer at [Maxlore innovation](https://www.maxlore.in/)  also as a trainer for basics of programming.
