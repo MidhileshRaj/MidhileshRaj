@@ -23,6 +23,8 @@
 >   -  Python
 >   - Sql
 >   - Firebase
+>   - Hive
+>   - git
 >   - Html
 >   - Css
 >   - javascript
