@@ -22,7 +22,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,mysql)](https://github.com/MidhileshRaj)
 - Flutter     •     Dart      •     Firebase     •     Python     •     Javascript    •     Html
-- Css             •     Bootstrap      •     MySql    •     Hive    •      Git    
+- Css             •     Bootstrap      •     MySql    •     Hive    •      Git
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=radical)
 
 
 
