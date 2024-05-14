@@ -21,16 +21,11 @@
 > - ## Things I work/worked with 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,mysql)](https://github.com/MidhileshRaj)
->   - Flutter
->   -  Python
->   - Sql
->   - Firebase
->   - Hive
->   - git
->   - Html
->   - Css
->   - javascript
->   - bootstrap
+>   - Flutter    >   -  Python
+>   - Sql        >   - Firebase
+>   - Hive       >   - git
+>   - Html       >   - Css
+>   - javascript >   - bootstrap
 
 
 
