@@ -24,9 +24,9 @@
 - Flutter     •     Dart      •     Firebase     •     Python     •     Javascript    •     Html
 - Css             •     Bootstrap      •     MySql    •     Hive    •      Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=dark)
+
 
 
 
