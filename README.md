@@ -25,10 +25,6 @@ I have experience in such verity of coding skills include Flutter and python
 • Developed and released many freelance Flutter project works.
 
 
-> - ## Social 📱
-
-
-[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=instagram)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=facebook)]()
 
 
 
@@ -42,6 +38,13 @@ I have experience in such verity of coding skills include Flutter and python
 
 
 > [!NOTE]
+
+> - ## Social 📱
+
+
+[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=instagram)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=facebook)]()
+
+
 > - ## Things I work/worked with 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,mysql)](https://github.com/MidhileshRaj)
