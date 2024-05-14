@@ -42,14 +42,15 @@
 > [!NOTE]
 > - ## Things I work/worked with 🚀
 
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,mysql,github,androidstudio,anaconda,apple,idea,linux,windows,npm,photoshop,postman,pycharm,vscode)](https://github.com/MidhileshRaj)
+- Flutter     •     Dart      •     Firebase     •     Python     •     Javascript    •     Html
+- Css             •     Bootstrap      •     MySql    •     Hive    •      Git
 
 
 ## 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=css&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,kotlin,mysql,django,flask,github,androidstudio,anaconda,apple,idea,linux,windows,npm,photoshop,postman,pycharm,vscode)](https://github.com/MidhileshRaj)
-- Flutter     •     Dart      •     Firebase     •     Python     •     Javascript    •     Html
-- Css             •     Bootstrap      •     MySql    •     Hive    •      Git
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=dark)
 
