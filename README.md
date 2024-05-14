@@ -25,6 +25,8 @@
 - Css             •     Bootstrap      •     MySql    •     Hive    •      Git
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&hide_progress=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=radical)
 
 
