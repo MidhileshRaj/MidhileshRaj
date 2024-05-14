@@ -60,7 +60,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)  ![Midhilesh Stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 
