@@ -2,11 +2,11 @@
  
 ![💼 I'm an software developer.  ](https://media.licdn.com/dms/image/D5616AQFb4ICtt0q8Qw/profile-displaybackgroundimage-shrink_350_1400/0/1690621386757?e=1721260800&v=beta&t=5Fnx6t3nUge8AXyX0-QwmhapIYNnzybB8cVocA_JYds)
 
-#### 💼 I'm an software developer. 
+### 💼 I'm an software developer. 
 
-🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
+##### 🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
 
-👨‍💻 I'm passionate about Full stack Web, Mobile Dev, Algorithm & I enjoy learning new things.
+##### 👨‍💻 I'm passionate about Full stack Web, Mobile Dev, Algorithm & I enjoy learning new things.
 
 - 💻 have experience in such verity of coding skills include Flutter and python 
 
