@@ -13,7 +13,7 @@ I have experience in such verity of coding skills include Flutter and python
 - 🌱 I’m currently learning Data analytics From free resources . I am a self learner 
 
 
-[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=facebook)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=medium)](https://www.linkedin.com/in/midhilesh-raj-810092172//)
+[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=instagram)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=facebook)]()
 
 
 
