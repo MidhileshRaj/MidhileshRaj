@@ -10,7 +10,22 @@
 
 I have experience in such verity of coding skills include Flutter and python 
 
-- 🌱 I’m currently learning Data analytics From free resources . I am a self learner 
+- 🌱 I’m currently learning Data analytics From free resources . I am a self learner
+
+
+
+## My Experiences 🙌
+
+• Freelance Flutter application developer.
+
+• Flutter developer at [Futuralabs Calicut](https://thefuturalabs.com/).
+
+• Associate Software Engineer at [Maxlore innovation](https://www.maxlore.in/)  also as a trainer for basics of programming.
+
+• Developed and released many freelance Flutter project works.
+
+
+> - ## Social 📱
 
 
 [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=instagram)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=facebook)]()
