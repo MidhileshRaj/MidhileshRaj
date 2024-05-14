@@ -8,7 +8,7 @@
 
 👨‍💻 I'm passionate about Full stack Web, Mobile Dev, Algorithm & I enjoy learning new things.
 
-I have experience in such verity of coding skills include Flutter and python 
+- 💻 have experience in such verity of coding skills include Flutter and python 
 
 - 🌱 I’m currently learning Data analytics From free resources . I am a self learner
 
