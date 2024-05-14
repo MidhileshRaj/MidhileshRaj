@@ -20,7 +20,7 @@
 > [!NOTE]
 > - ## Things I work/worked with 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,mysql,js,html,css,git,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,mysql)](https://skillicons.dev)
 >   - Flutter
 >   -  Python
 >   - Sql
