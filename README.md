@@ -4,9 +4,9 @@
 
 #### 💼 I'm an software developer. 
 
-🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
+##### 🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
 
-👨‍💻 I'm passionate about Full stack Web, Mobile Dev, Algorithm & I enjoy learning new things.
+##### 👨‍💻 I'm passionate about Full stack Web, Mobile Dev, Algorithm & I enjoy learning new things.
 
 - 💻 have experience in such verity of coding skills include Flutter and python 
 
