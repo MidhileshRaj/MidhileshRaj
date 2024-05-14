@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Midhiles Raj
-#### 💼 I'm an software developer.  
+ 
 ![💼 I'm an software developer.  ](https://media.licdn.com/dms/image/D5616AQFb4ICtt0q8Qw/profile-displaybackgroundimage-shrink_350_1400/0/1690621386757?e=1721260800&v=beta&t=5Fnx6t3nUge8AXyX0-QwmhapIYNnzybB8cVocA_JYds)
+
+#### 💼 I'm an software developer. 
 
 🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
 
@@ -15,9 +17,7 @@ I have experience in such verity of coding skills include Flutter and python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MidhileshRaj)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/MidhileshRaj)  
 
 
 
