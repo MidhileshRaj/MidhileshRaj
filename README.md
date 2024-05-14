@@ -33,7 +33,8 @@
 ## Social 📱
 
 
-[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)  [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)  [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)  [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/https://twitter.com/MidhileshRaj)  [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)
+ [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)   [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)   [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/https://twitter.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)   [![My Social](https://skillicons.dev/icons?i=gmail)](midhileshraj01@gmail.com)
+
 
 
 
@@ -41,7 +42,7 @@
 > [!NOTE]
 > - ## Things I work/worked with 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,mysql,apple,postman,pycharm,vscode,idea)](https://github.com/MidhileshRaj)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,html,css,bootstrap,git,kotlin,mysql,django,flask,github,androidstudio,anaconda,apple,idea,linux,windows,npm,photoshop,postman,pycharm,vscode)](https://github.com/MidhileshRaj)
 - Flutter     •     Dart      •     Firebase     •     Python     •     Javascript    •     Html
 - Css             •     Bootstrap      •     MySql    •     Hive    •      Git
 
