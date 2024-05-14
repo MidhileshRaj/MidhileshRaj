@@ -33,6 +33,10 @@ I have experience in such verity of coding skills include Flutter and python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+> - [ Social 📱]
+
+
+[![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)[![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172//)[![My Social](https://skillicons.dev/icons?i=stackoverflow)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=instagram)]()[![My Social](https://skillicons.dev/icons?i=medium)]()[![My Social](https://skillicons.dev/icons?i=facebook)]()
 
 
 
