@@ -53,10 +53,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MidhileshRaj&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MidhileshRaj&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MidhileshRaj&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
 
