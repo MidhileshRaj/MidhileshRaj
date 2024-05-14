@@ -52,6 +52,14 @@
 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MidhileshRaj&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MidhileshRaj&icon=7&color=0)](https://visitcount.itsvg.in)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidhileshRaj&layout=donut-vertical&bg_color=00000000)](https://github.com/MidhileshRaj/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhileshRaj&show_icons=true&theme=dark)
 
 
