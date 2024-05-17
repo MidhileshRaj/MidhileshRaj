@@ -20,7 +20,7 @@
 
 • Flutter developer at [Futuralabs Calicut](https://thefuturalabs.com/).
 
-• Associate Software Engineer at [Maxlore innovation](https://www.maxlore.in/)  also as a trainer for basics of programming.
+• Associate Software Engineer at [Riss Technolgies](http://www.risstechnologies.com/)  also as a trainer for basics of programming.
 
 • Developed and released many freelance Flutter project works.
 
