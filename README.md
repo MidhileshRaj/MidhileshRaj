@@ -69,7 +69,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=MidhileshRaj&label=Fans%20of%20Git%20Account&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 
 
