@@ -33,7 +33,7 @@
 ## Social 📱
 
 
- [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)   [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)   [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)   [![My Social](https://skillicons.dev/icons?i=gmail)](midhileshraj01@gmail.com)
+ [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)   [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)   [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)   [![My Social](midhileshraj01@gmail.com)](midhileshraj01@gmail.com)
 
 
 
