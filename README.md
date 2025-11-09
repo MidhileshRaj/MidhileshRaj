@@ -17,6 +17,9 @@
 ## My Experiences 🙌
 
 • Freelance Flutter application developer.
+• Snr. Flutter developer at [Occazon Pvt. Ltd.](https://www.occazone.com/).
+
+• Software developer at [Ecochoice Naturals](https://ecochoice.in/#/).
 
 • Flutter developer at [Futuralabs Calicut](https://thefuturalabs.com/).
 
