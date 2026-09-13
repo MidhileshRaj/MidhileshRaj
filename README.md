@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning Data analytics From free resources . I am a self learner
 
+- 🌐 Check out my portfolio → [midhilesh-raj.vercel.app](https://midhilesh-raj.vercel.app/)
+
 
 
 ## My Experiences 🙌
@@ -30,7 +32,7 @@
 
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 
 
@@ -51,7 +53,7 @@
 ## Social 📱
 
 
- [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)   [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)   [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)   [![My Social](https://skillicons.dev/icons?i=gmail)](https://www.gmail.com/)
+ [![My Portfolio](https://skillicons.dev/icons?i=vercel)](https://midhilesh-raj.vercel.app/)   [![My Social](https://skillicons.dev/icons?i=github)](https://github.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/midhilesh-raj-810092172/)   [![My Social](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22123578/midhilesh-raj)   [![My Social](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MidhileshRaj)   [![My Social](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/midhileshraj/)   [![My Social](https://skillicons.dev/icons?i=gmail)](https://www.gmail.com/)
 
 
 
@@ -72,9 +74,3 @@
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/midhileshr6)
-
-
-
-
-
-
