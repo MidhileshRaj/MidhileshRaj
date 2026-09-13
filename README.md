@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Midhilesh Raj
  
-![💼 I'm an software developer.  ](https://midhilesh-raj.vercel.app/)
+![💼 I'm an software developer.  ]
 
 ### 💼 I'm an software developer. 
 
