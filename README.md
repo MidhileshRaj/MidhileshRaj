@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Midhilesh Raj
  
-![💼 I'm an software developer.  ]
 
 ### 💼 I'm an software developer. 
 
