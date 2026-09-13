@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Midhilesh Raj
  
-![💼 I'm an software developer.  ](https://media.licdn.com/dms/image/D5616AQFb4ICtt0q8Qw/profile-displaybackgroundimage-shrink_350_1400/0/1690621386757?e=1721260800&v=beta&t=5Fnx6t3nUge8AXyX0-QwmhapIYNnzybB8cVocA_JYds)
+![💼 I'm an software developer.  ](https://midhilesh-raj.vercel.app/)
 
 ### 💼 I'm an software developer. 
 
