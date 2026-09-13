@@ -18,7 +18,7 @@
 ## My Experiences 🙌
 
 • Freelance Flutter application developer.
-• Snr. Flutter developer at [Occazon Pvt. Ltd.](https://www.occazone.com/).
+• Snr. Flutter developer & Mobile app development lead engineer at [Occazon Pvt. Ltd.](https://www.occazone.com/).
 
 • Software developer at [Ecochoice Naturals](https://ecochoice.in/#/).
 
