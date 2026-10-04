@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Midhilesh Raj
  
 
-### 💼 I'm an software developer. 
+### 💼 I'm an Software Developer Engineer. 
 
 ##### 🎓 I’m an tech-enthusiast & have a wide variety of knowledge in programming and computer.
 
